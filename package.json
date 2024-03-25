@@ -5,6 +5,8 @@
   "scripts": {
     "build": "parcel build mainscript.js --public-url ./",
     "watch": "parcel watch mainscript.js --public-url ./"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
   }
-  
 }
